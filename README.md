@@ -1,7 +1,7 @@
 # My custom build of DWM.
 
-Use it if you want, or don't.
-It's just here for me to get my config. :)
+Use it if you want, or don't!
+It's mainly just here for me. :)
 
 Guide for noobers
 ```
